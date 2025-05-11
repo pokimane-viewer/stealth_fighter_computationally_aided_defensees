@@ -1,4 +1,4 @@
-# i got fucked for 24h for using a few ChatGPT requests correctly
+# i got fucked for 24h for using a few ChatGPT requests correctly; anyways here blind ChatGPT just returns the same non-computationally aided design code, so have fun looking and figuring out the correct or useful prompt!
 
 We optimize the leading-edge angle by combining a radar cross section (RCS) value
 with a performance metric derived from the Tsiolkovsky rocket equation.
