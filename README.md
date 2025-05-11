@@ -1,6 +1,12 @@
-# 
+# Yay placeholder CUPY or not! from feeding in a paste of research on the leading edge; definately a placeholder I think; it took like 20 seconds at most.
+
+[CAD_DEBUG] Upgrade result: {'optimal_angle': 0, 'combined_score': 38.12633494792716, 'stealth_improvement': 0.00025}
+
 
 ![Screenshot 2025-05-11 081423](https://github.com/user-attachments/assets/83b7b650-9250-4e1e-99dc-ab6d5e5964ad)
+
+![Screenshot 2025-05-11 082136](https://github.com/user-attachments/assets/abb13b2d-df4a-4d5a-9637-a9caed2a6c39)
+
 
 
 We optimize the leading-edge angle by combining a radar cross section (RCS) value
